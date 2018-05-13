@@ -112,7 +112,7 @@ function thumbnail_box($filename, $img, $box_w, $box_h) {
 	    //compute sizes
 	    $sy = floor(imagesy($img) * $ratio);
 	    $sx = floor(imagesx($img) * $ratio);
-	
+	xfgfsdg
 	    //compute margins
 	    //Using these margins centers the image in the thumbnail.
 	    //If you always want the image to the top left, 
